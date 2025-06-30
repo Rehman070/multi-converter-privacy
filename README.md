@@ -1,2 +1,50 @@
 # multi-converter-privacy
 Privacy Policy for MultiConverter App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - MultiConverter</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p><strong>Effective date:</strong> June 30, 2025</p>
+
+  <p>MultiConverter ("we", "our", or "us") operates the MultiConverter mobile application. This Privacy Policy explains how we handle your information when you use our app.</p>
+
+  <h2>1. Personal Data Collection</h2>
+  <p>We do <strong>not collect</strong> or store any personal information from users of any age, including children.</p>
+
+  <h2>2. Use of Third-Party Services</h2>
+  <p>The app uses <strong>Google AdMob</strong> to display ads. While we do not collect or process personal data, AdMob may collect limited data such as:</p>
+  <ul>
+    <li>Advertising ID</li>
+    <li>Approximate location (based on IP)</li>
+    <li>Device and usage data (e.g., OS version, language)</li>
+  </ul>
+  <p>This data is handled directly by Google AdMob in accordance with their <a href="https://policies.google.com/privacy">Privacy Policy</a>.</p>
+
+  <h2>3. Children’s Privacy</h2>
+  <p>This app is suitable for all age groups, including children. We do not knowingly collect any personal data from children under 13. Ads shown are managed by Google and may be non-personalized based on your device settings.</p>
+  <p>If you believe we have unintentionally collected data from a child, please contact us immediately and we will take steps to delete it.</p>
+
+  <h2>4. Data Safety</h2>
+  <p>All data collection, if any, is handled by third-party services (e.g., AdMob) for the purpose of showing ads. We do not access, store, or share any of this information ourselves.</p>
+
+  <h2>5. User Control</h2>
+  <ul>
+    <li>Users can opt out of personalized ads through their device settings.</li>
+    <li>Android: Settings → Google → Ads → "Delete Advertising ID" or "Opt out of Ads Personalization"</li>
+  </ul>
+
+  <h2>6. Changes to This Policy</h2>
+  <p>We may update our Privacy Policy from time to time. Changes will be reflected on this page with a new effective date.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have any questions about this policy, please contact us at:</p>
+  <p>Email: abdurrehman5732@gmail.com</p>
+
+</body>
+</html>
